@@ -1,8 +1,7 @@
 # Final-Project-
-# Preproposal
 
 ## What idea(s) do you have for your final project?
-# My final procer 
+
 
 A website that focuses on mental health. I plan to use language like HTML and CSS to code this website.
 
