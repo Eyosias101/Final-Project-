@@ -7,7 +7,7 @@ A website that focuses on mental health. I plan to use language like HTML and CS
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
-No, I will work on this project alone. 
+Yes I will be working on this project with a classmate called Eskinder Desta. 
 
 ## Do you have any questions of your own?
 
